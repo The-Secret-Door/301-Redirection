@@ -1,3 +1,5 @@
 RewriteEngine On
 Redirect 301 /a-very-old-post/ http://yoursite.com/a-very-new-post/
 You can add the code above, preferably at the end of your .htaccess file.
+
+
